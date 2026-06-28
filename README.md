@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me:
-🎓 Software Engineering student currently in 4th semester at Bahria University Islamabad.<br>
+🎓 Software Engineering student at Bahria University Islamabad.<br>
 💻 Passionate about programming, software development, and problem-solving.<br>
 🌱 Currently learning Web Development, GitHub, and modern software technologies.<br>
 🚀 Interested in building real-world projects and improving development skills.<br>
