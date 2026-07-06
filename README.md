@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maryam Chanzeb</h1>
-<h3 align="center">Software Engineering Student | Learning Web Development & Software Development</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Responsive, Scalable & User-Friendly Web Applications</h3>
 
 ---
 
 # 💫 About Me:
 🎓 Software Engineering student at Bahria University Islamabad.<br>
 💻 Passionate about programming, software development, and problem-solving.<br>
-🌱 Currently learning Web Development, GitHub, and modern software technologies.<br>
+🌱 Currently learning MERN Stack, GitHub, and modern software technologies.<br>
 🚀 Interested in building real-world projects and improving development skills.<br>
 📚 Strong foundation in C++, Python, OOP, Data Structures, DBMS, and Software Design.<br>
 
@@ -27,7 +27,7 @@
 ### 🛒 Shopping Management System
 Console-based project developed in C++.
 
-### 🎟️ Event Booking System
+### 🎟️ Online Event Booking System
 Web-based academic project using HTML/CSS.
 
 ### 🌦️ Weather Forecast Website
